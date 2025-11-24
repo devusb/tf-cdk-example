@@ -1,0 +1,8 @@
+version = 1
+
+[install]
+go.pkg-path = "go"
+terraform.pkg-path = "terraform"
+cdktf-cli.pkg-path = "cdktf-cli"
+gnumake.pkg-path = "gnumake"
+nodejs.pkg-path = "nodejs"

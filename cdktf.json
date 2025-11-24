@@ -1,0 +1,12 @@
+{
+  "language": "go",
+  "app": "go run .",
+  "projectId": "json-to-terraform",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}

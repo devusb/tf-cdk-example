@@ -1,0 +1,9 @@
+{
+  "project": "my-app",
+  "environment": "dev",
+  "region": "us-west-2",
+  "storage": {
+    "bucket_name": "my-app-data",
+    "enable_versioning": true
+  }
+}
